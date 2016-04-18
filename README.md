@@ -2,13 +2,14 @@
 
 ##NOTES
 
-This is a folk of Adfisher, we have modified for our purposes in testing Google Shopping. Below is original text of the authors.
+This is a folk of [Adfisher](https://github.com/tadatitam/info-flow-experiments), we have modified for our purposes in testing Google Shopping. Below is original text of the authors.
 
 ```
 python new_experiment.py  # for training phase
 python new_experiment_test.py # for testing phase
 # you can do this trick python new_experiment.py && python new_experiment_test.py
-# this is a hack for using selenium because the training phase could take long and somehow the waiting browser becomes unresponsive so I separate the two train and test phase in two files to eliminate this waiting time.
+# this is a hack for using selenium because the training phase could take long and somehow the waiting browser becomes unresponsive 
+#so I separate the two train and test phase in two files to eliminate this waiting time.
 ```
 
 AdFisher
